@@ -1,0 +1,5 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/scanning_start" android:title="扫描" android:orderInCategory="3" android:showAsAction="always|withText"></item>
+    <item android:id="@+id/scanning_stop" android:title="停止" android:orderInCategory="4" android:showAsAction="always|withText"></item>
+
+</menu>
